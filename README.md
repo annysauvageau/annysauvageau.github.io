@@ -15,8 +15,8 @@ You can find Dr. Anny Sauvageau's Resume by [downloading this PDF](Dr_Anny_Sauva
 
 ## Contact 
 
-You can contact Dr. Anny Sauvageau [by completing this Google web form](https://goo.gl/forms/YiwyVFMaCAtf2dzq1). 
+You can contact Dr. Anny Sauvageau [by completing this Google contact form](<a href="https://goo.gl/forms/YiwyVFMaCAtf2dzq1" target="_blank">Google contact form</a>). 
 
-
+<a href="http://example.com/" target="_blank">example</a>
 * * *
 
