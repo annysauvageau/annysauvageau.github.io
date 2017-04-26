@@ -10,12 +10,12 @@ Since 2015, Dr. Sauvageau has been working as a forensic pathology consultant. H
 
 ## Resume
 
-Dr Anny Sauvageau's Resume: [Download PDF](Dr_Anny_Sauvageau.pdf)
+You can find Dr. Anny Sauvageau's Resume by [downloading this PDF](Dr_Anny_Sauvageau.pdf)
 
 
 ## Contact 
 
-You can contact Dr Anny Sauvageau [by filling in this Google web form](https://goo.gl/forms/YiwyVFMaCAtf2dzq1) and an email will be sent to Dr Sauvageau with the information you put in the web form. 
+You can contact Dr. Anny Sauvageau [by completing this Google web form](https://goo.gl/forms/YiwyVFMaCAtf2dzq1). Once sent,  Dr Sauvageau will receive your form information in her email account. 
 
 
 * * *
