@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Resume and Contact Page for Dr. Anny Sauvageau, Forensic Pathologist
 
-You can use the [editor on GitHub](https://github.com/annysauvageau/annysauvageau.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dr Sauvageau is a well-respected forensic pathologist, with over 15 years of experience. She started her career as forensic pathologist in Montreal in 2002, before moving to Alberta where she became the Chief Medical Examiner from 2011 to 2014. She has a founder designation in forensic pathology from the Royal College of Physicians and Surgeons of Canada in recognition of her significant contribution to the development of this new specialty in Canada, including her role as Vice Chair of the Examination Board in Forensic Pathology from 2007 to 2011. She is the founder of the forensic pathology residency program at the University of Alberta and was the program director from 2011 to 2014. She authored more than 75 papers in peer-reviewed forensic journals and was the founder of the Working Group on Human Asphyxia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Since 2015, Dr. Sauvageau works as a forensic pathologist consultant. Her services have been retained in a variety of cases by Defense lawyers, Crown prosecutor, Police services and other organizations both in Canada and United-States. 
 
-### Markdown
+### Download Dr Anny Sauvageau's resume (PDF)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Dr Anny Sauvageau's Resume](https://github.com/contact).
 
-```markdown
-Syntax highlighted code block
+### Contact Dr Anny Sauvageau
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annysauvageau/annysauvageau.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Contact Dr Anny Sauvageau](https://github.com/contact).
