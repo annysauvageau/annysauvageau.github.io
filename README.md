@@ -10,7 +10,7 @@ Since 2015, Dr. Sauvageau has been working as a forensic pathology consultant. H
 
 ## Resume
 
-You can find Dr. Anny Sauvageau's resume/CV by [downloading this PDF](Dr_Anny_Sauvageau.pdf)
+You can find Dr. Anny Sauvageau's resume/CV by [downloading this PDF](Dr_Anny_Sauvageau.pdf).
 
 
 ## Contact 
