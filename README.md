@@ -15,8 +15,8 @@ You can find Dr. Anny Sauvageau's resume/CV by [downloading this PDF](Dr_Anny_Sa
 
 ## Contact 
 
-You can contact Dr. Anny Sauvageau by email at: <anny.sauvageau@gmail.com>  
+You can contact Dr. Anny Sauvageau by email at: <anny.sauvageau@gmail.com> 
 
-LinkedIn profile: <a href="https://www.linkedin.com/in/anny-sauvageau-9715b413a/" target="_blank">https://www.linkedin.com/in/anny-sauvageau-9715b413a/</a>
+
 * * *
 
